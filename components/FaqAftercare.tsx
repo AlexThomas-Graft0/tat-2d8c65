@@ -43,7 +43,7 @@ const CONTENT = {
         points: [
           'Cadwch y lapio diogelwch ymlaen am o leiaf 2 awr.',
           'Ar ôl tynnu\'r lapio, golchwch y tatŵ yn ysgafn â dŵr cynnes a sebon gwrth-facterol di-arogl gan ddefnyddio eich dwylo glân yn unig.',
-          'Sychwch y tatŵ trwy dapio\'n ysgafn â thywel papur glân. Peidiwch â rhwbio.'
+          'Sychwch y tatŵ trwy dapio\'n ysgafn â tywel papur glân. Peidiwch â rhwbio.'
         ]
       },
       {
@@ -86,7 +86,7 @@ const CONTENT = {
       },
       {
         q: 'Does it hurt? How should I prepare?',
-        a: 'Every tattoo feels like a hot scratch, but everyone copes incredibly well! To prepare: make sure you get a good night's sleep, eat a substantial meal 2 hours before your session, and bring a sugary drink with you. Do not drink alcohol the night before.'
+        a: 'Every tattoo feels like a hot scratch, but everyone copes incredibly well! To prepare: make sure you get a good night\'s sleep, eat a substantial meal 2 hours before your session, and bring a sugary drink with you. Do not drink alcohol the night before.'
       },
       {
         q: 'Do I need to speak Welsh to book with you?',
